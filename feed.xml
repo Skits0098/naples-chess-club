@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naples Chess Club</title>
+    <link>https://napleschessclub.com/blog/</link>
+    <atom:link href="https://napleschessclub.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Guides, research and practical chess advice from Naples Chess Club.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2026 19:05:58 GMT</lastBuildDate>
+    <item>
+      <title>Chess in Naples, Florida: The Complete Guide</title>
+      <link>https://napleschessclub.com/blog/chess-in-naples-florida/</link>
+      <guid isPermaLink="true">https://napleschessclub.com/blog/chess-in-naples-florida/</guid>
+      <description>Where to play chess in Naples, what a club night actually involves, what it costs, and how to start playing over the board if you are new to the area or new to the game.</description>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Chess Opening Principles Checklist (Free, Printable)</title>
+      <link>https://napleschessclub.com/blog/chess-opening-principles-checklist/</link>
+      <guid isPermaLink="true">https://napleschessclub.com/blog/chess-opening-principles-checklist/</guid>
+      <description>Seven opening principles that beat memorising lines for any player under about 1500. Includes a one-page printable checklist you can take to the board.</description>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Does Chess Actually Make You Smarter? What the Research Says</title>
+      <link>https://napleschessclub.com/blog/does-chess-make-you-smarter/</link>
+      <guid isPermaLink="true">https://napleschessclub.com/blog/does-chess-make-you-smarter/</guid>
+      <description>A careful look at the evidence on chess and cognition, including the dementia study that gets quoted constantly and the meta-analyses that find far less than people claim.</description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

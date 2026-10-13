@@ -1,0 +1,13 @@
+# Normalise line endings so the repo stays consistent no matter who edits it
+# or on which OS. Without this, Windows checkouts rewrite every text file and
+# the generator sees CRLF in the Markdown posts.
+* text=auto eol=lf
+
+# Never touch binaries
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.webp binary
+*.ico  binary
+*.woff binary
+*.woff2 binary

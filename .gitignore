@@ -1,0 +1,15 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Editor and tooling
+.claude/
+.vscode/
+.idea/
+node_modules/
+
+# Local scratch
+*.log
+mock-*.json
